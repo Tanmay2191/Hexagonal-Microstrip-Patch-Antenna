@@ -15,9 +15,9 @@ This repository contains the electromagnetic simulation and design files for a 2
 Below are the simulation results extracted from the ANSYS HFSS analysis, detailing the antenna's radiation characteristics and impedance matching:
 
 ### S11 Return Loss & Impedance
-![Simulation Result 1](results/plot1.png)
+![Simulation Result 1](results/Plot1.png)
 
-![Simulation Result 2](results/plot2.png)
+![Simulation Result 2](results/Plot2.png)
 
 ### 3D Radiation Pattern & Gain
 ![Simulation Result 3](results/RP1.png)
